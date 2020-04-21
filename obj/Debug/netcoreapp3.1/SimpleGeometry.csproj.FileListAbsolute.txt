@@ -1,0 +1,13 @@
+E:\Desenvolvimento\Senac\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.exe
+E:\Desenvolvimento\Senac\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.deps.json
+E:\Desenvolvimento\Senac\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.runtimeconfig.json
+E:\Desenvolvimento\Senac\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.runtimeconfig.dev.json
+E:\Desenvolvimento\Senac\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.dll
+E:\Desenvolvimento\Senac\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.pdb
+E:\Desenvolvimento\Senac\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.csprojAssemblyReference.cache
+E:\Desenvolvimento\Senac\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Senac\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.AssemblyInfoInputs.cache
+E:\Desenvolvimento\Senac\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.AssemblyInfo.cs
+E:\Desenvolvimento\Senac\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.dll
+E:\Desenvolvimento\Senac\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.pdb
+E:\Desenvolvimento\Senac\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.genruntimeconfig.cache
